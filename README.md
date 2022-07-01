@@ -12,6 +12,7 @@ You can refer to the README.md file inside each folder to know more about each p
 
 I will keep on updating this repository.
 In case of any queries feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jyotimaurya09)
+
 ---
 ## About the Author
 |  | Details |
