@@ -1,17 +1,16 @@
-# Python Projects
+# Sentiment Analysis using LSTM with Attention Mechanism
 
-This repository contains various python projects.
-Each folder contains a new and different project.
-You can refer to the README.md file inside each folder to know more about each project.
+This repository contains 
+ - Readme File
+ - Jupyter Notebook
+ - Amazon datset
+ - Image of LSTM with attention architecture
 
-#### PROJECTS
-- Sentiment Analysis using LSTM with Attention Mechanism
-- Making Insta Reels with Python
-- Portfolio Optimization
+Open the Sentiment_Analysis_LSTM.ipynb.
+It has all the instructions to successfully run this Project
 
-
-I will keep on updating this repository.
 In case of any queries feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jyotimaurya09)
+
 ---
 ## About the Author
 |  | Details |
