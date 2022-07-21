@@ -6,6 +6,7 @@ You can refer to the README.md file inside each folder to know more about each p
 
 #### PROJECTS
 - Sentiment Analysis using LSTM with Attention Mechanism
+- Fuzzy Expert System
 - Making Insta Reels with Python
 - Portfolio Optimization
 - BackTesting
