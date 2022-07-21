@@ -8,7 +8,8 @@ You can refer to the README.md file inside each folder to know more about each p
 - Sentiment Analysis using LSTM with Attention Mechanism
 - Making Insta Reels with Python
 - Portfolio Optimization
-
+- BackTesting
+- Stock Market Data Downloader
 
 I will keep on updating this repository.
 In case of any queries feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jyotimaurya09)
